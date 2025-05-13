@@ -1,4 +1,4 @@
-### Hi there 👋
-I'm Sagar, an embedded systems and hardware design enthusiast!
+### Hi there 👋  
+I'm Sagar, an electronics and embedded systems enthusiast with hands-on experience in robotics, real-time control, sensor fusion, and cross-disciplinary collaboration.
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-orange?style=for-the-badge)](https://sagar-bei031.github.io/)
+🌐 [Website](https://sagarchaudhary.info.np/)
